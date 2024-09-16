@@ -10,7 +10,7 @@ cftime==1.6.2
 click==7.1.2
 cymem==2.0.7
 cytoolz==0.11.2
-dask==2.30.0
+dask==2021.10.0
 datasets==2.7.1
 debugpy==1.6.3
 diff-match-patch==20200713
